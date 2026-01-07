@@ -21,7 +21,7 @@ MAIN_STATUS_MODE|OFF
 STATUS|- Tất cả các tính năng liên quan in ấn và hậu kỳ PDF được mở khóa vĩnh viễn. \n- Tính năng nâng cao cần nâng cấp tài khoản để sử dụng. \n Tính năng nâng cao bao gồm: Đồng bộ, Tạo danh mục, Tạo layout.
 STATUS_EN|- All printing and PDF post-processing features are permanently unlocked.\n- Advanced features require an upgraded account.\n  Advanced features include: Sync, Create List, Create Layout.
 STATUS_MODE|ALL
-STATUS_2|"JEEZ: Miễn phí 100% cho tài khoản nâng cấp trước ngày 01/01/2026"
+STATUS_2|"Miễn phí 100% cho tài khoản nâng cấp trước ngày 01/01/2026"
 STATUS_2_EN|"100% free for account upgrades made before January 1, 2026."
 STATUS_2_LINK|https://gumroad.com/l/kggprint
 STATUS_2_MODE|FREE
